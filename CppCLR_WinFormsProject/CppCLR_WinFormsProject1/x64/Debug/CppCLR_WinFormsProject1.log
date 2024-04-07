@@ -1,0 +1,48 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\KindergartenStudent.cpp(203,27): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\ListKindergartenStudent.cpp(100,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Form1.cpp
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\KindergartenStudent.cpp(203,27): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\ListKindergartenStudent.cpp(100,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\Form1.cpp(9,28): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\Form1.cpp(52,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\Form1.cpp(67,28): warning C4101: ex: неиспользованная локальная переменная
+  KindergartenStudent.cpp
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\KindergartenStudent.cpp(203,27): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  ListKindergartenStudent.cpp
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\KindergartenStudent.cpp(203,27): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\ListKindergartenStudent.cpp(100,17): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CppCLR_WinFormsProject1.vcxproj -> C:\Users\user\Desktop\Для себя\Программирование\Kindergarten\Пробный проект\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.exe
